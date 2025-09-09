@@ -11,3 +11,5 @@
   Додакткові матеріали:  
   - 05.09.2024
      - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/1/1.pdf)
+     - Кутовий розділи 1.1-1.4
+     - Jain розділи 2.1-2.2
