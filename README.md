@@ -15,3 +15,5 @@
      - Jain розділи 2.1-2.2
   - 16.09.2024
      - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/2/2.pdf)
+     - Кутовий розділи 1.5, 2.1-2.8
+     - Jain розділ 2.3
