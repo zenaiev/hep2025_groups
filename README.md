@@ -7,6 +7,11 @@
 
 #### [Записи занять](https://cernbox.cern.ch/s/nxHclH3Z4T1yKCT)
 
+#### Література:
+  - [1] [Akash Jain. ``Notes on symmetries in particle physics''](https://arxiv.org/abs/2109.12087) [локальне посилання](https://github.com/zenaiev/hep2025_groups/tree/main/literature/2109.12087v1.pdf)
+  - [2] [Кутовий, С.Ю. ``Теорія груп в застосуванні до спектроскопії багатоатомних молекул''. Київський національний університет, 2012 р. - 146 с.](http://exp.phys.knu.ua/ua/Study/Lib/Navch_posibnyky/NP\%20-\%20ThGrMM\%20-\%20Kutovyj\%20-\%202012.pdf) [локальне посилання](https://github.com/zenaiev/hep2025_groups/tree/main/literature/GroupTh.pdf)
+  - [3] Голод П. І., Клімик А. У. ``Математичні основи теорії симетрій''.  К. : Наукова думка, 1992. - 368 с. [локальне посилання](https://github.com/zenaiev/hep2025_groups/tree/main/literature/GolodKlimyk.djvu) (рос. мовою)
+
   <!--</summary>-->
   Додакткові матеріали:  
   - 09.09.2024
