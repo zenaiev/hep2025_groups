@@ -27,3 +27,6 @@
   - 23.09.2025
      - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/3/3.pdf)
      - Jain розділи 2.4, 2.5
+  - 30.09.2025
+     - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/4/4.pdf)
+     - Jain розділ 3, Горкавенко розділ 2.1
