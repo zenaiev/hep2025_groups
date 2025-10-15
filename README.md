@@ -35,3 +35,6 @@
      - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/5/5.pdf)
      - Jain розділ 4.1, Горкавенко додаток 1
      - домашнє завдання: показати еквівалентність фундаментального і спряжених представлень групи SU(2) (див. останній слайд)
+  - 15.10.2025
+     - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/6/6.pdf)
+     - Jain розділи 4.2, 4.3
