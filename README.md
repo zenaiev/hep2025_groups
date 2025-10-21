@@ -39,4 +39,4 @@
      - [слайди](https://github.com/zenaiev/hep2025_groups/tree/main/slides/6/6.pdf)
      - Jain розділи 4.2, 4.3
   - 21.10.2025
-     - [лекція](https://github.com/zenaiev/hep2025_groups/tree/main/slides/6/6.pdf)
+     - [лекція](https://youtu.be/WZ27sqcB2OI?list=PLaNkJORnlhZlMRtTwCz9blGVzfRC6YnBF&t=3108)
