@@ -40,3 +40,8 @@
      - Jain розділи 4.2, 4.3
   - 21.10.2025
      - [лекція](https://youtu.be/WZ27sqcB2OI?list=PLaNkJORnlhZlMRtTwCz9blGVzfRC6YnBF&t=3108)
+  - 28.10.2025 (таблиці Юнга)
+     - Jain розділ 4.2
+     - [лекція](https://youtu.be/WZ27sqcB2OI?list=PLaNkJORnlhZlMRtTwCz9blGVzfRC6YnBF&t=3108)
+  - 04.11.2025 (представлення групи SU(3))
+     - Jain розділ 4.4
