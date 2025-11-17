@@ -45,3 +45,8 @@
      - [лекція](https://youtu.be/WZ27sqcB2OI?list=PLaNkJORnlhZlMRtTwCz9blGVzfRC6YnBF&t=3108)
   - 04.11.2025 (представлення групи SU(3))
      - Jain розділ 4.4
+  - 11.11.2025 (представлення групи SU(3))
+     - Jain розділ 4.4
+  - 18.11.2025 (локальна калібрувальна інваріантність, неабелева група)
+     - Горкавенко розділ 2.2
+     - [завдання на залік](https://github.com/zenaiev/hep2025_groups/tree/main/tasks/tasks.txt)
